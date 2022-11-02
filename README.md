@@ -1,6 +1,8 @@
 # AirfarePredictionOnFlightRoutes
 A data science project exploring flight prices given a set of attributes; as part of a theoretical consulting company's services. An extension of one of my grad school homework problems, just because :)
 
+*Data from a real USA dataset, ranging from FY1996 (Quarter 3) to FY1997 (Quarter 2).*
+
 **Attribute Explanation**:
 
 • COUPON: average number of coupons (a one-coupon flight is a non-stop flight, a 
