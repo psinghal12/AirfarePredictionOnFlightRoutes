@@ -1,5 +1,5 @@
 # AirfarePredictionOnFlightRoutes
-A data science project exploring flight prices given a set of attributes; as part of a theoretical consulting company's services. An extension of one of my grad school homework problems, just because :)
+A data science project exploring flight prices given a set of attributes; as part of a theoretical consulting company's services. 
 
 *Data from a real USA dataset, ranging from FY1996 (Quarter 3) to FY1997 (Quarter 2).*
 
